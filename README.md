@@ -1,8 +1,8 @@
 # EEM-ART
 Emotional Episodic Memory - Adaptive Resonance Theory
 
-ART: Adaptive Resonance Theory
-  EM-ART: Episodic Memory - ART
+ART: Adaptive Resonance Theory  
+EM-ART: Episodic Memory - ART
 
 EEM-ART: Emotional EM-ART
 
