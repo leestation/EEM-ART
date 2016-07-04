@@ -37,8 +37,8 @@ int lev(char* s, char* t) // WagnerFischer algorithm
 			{
 				tracker = 1;
 			}
-			temp = min((d[i-1][j]+1),(d[i][j-1]+1));
-			d[i][j] = min(temp,(d[i-1][j-1]+tracker));
+			temp = MIN((d[i-1][j]+1),(d[i][j-1]+1));
+			d[i][j] = MIN(temp,(d[i-1][j-1]+tracker));
 		}
 	}
 
