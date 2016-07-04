@@ -1,6 +1,11 @@
 // Wagner-Fischer algorithm: https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm
 // Code from: http://www.sanfoundry.com/cpp-program-implement-levenshtein-distance-computing-algorithm/
 
+#include <stdio.h>
+#include <math.h>
+#include <string.h>
+#define MIN(x,y) ((x) < (y) ? (x) : (y))
+
 int lev(char* s, char* t) // WagnerFischer algorithm
 {
 	int i,j,m,n,temp,tracker;
