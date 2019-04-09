@@ -8,3 +8,6 @@ EEM-ART: Emotional EM-ART
 Additionally,  
 Deep ART  
 pDM-ART: user preference Dual Memory - ART
+
+![GitHub Logo](/picture.png)
+Format: ![Alt Text](url)
