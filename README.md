@@ -10,4 +10,4 @@ Deep ART
 pDM-ART: user preference Dual Memory - ART
 
 ![GitHub Logo](/picture.png)
-Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+Format: ![text](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
